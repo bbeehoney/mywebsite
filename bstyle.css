@@ -1,0 +1,51 @@
+
+<body background="file:file:///C:/Users/Bianca/Desktop/photo-1550895030-823330fc2551.webp">
+
+	h1 {
+  text-align: center;
+  text-shadow: 2px 2px white;
+  padding: 13px
+}
+h1 {
+	text-shadow: 1px 1px #ff9900
+}
+h1 {
+	text-align: center;
+}
+h1 {
+	font-size: 340%;
+}
+h2 {
+	text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px
+}
+a {
+  text-decoration: none;
+  }
+  a:link {
+  color: #ffcc00;
+  border-bottom: 2px solid #ffcc00;
+  }
+  a:hover {
+  color: #1a1400;
+  border-bottom: 2px solid #ffcc00;
+  } 
+  a:hover {
+  background-color: rgb(255, 204, 0);
+  font-style: oblique;
+}a:visited {
+      color: #804000;
+      border-bottom: 1px #ff9900;
+  }
+a {
+	font-size: 150%;
+}
+h3 {
+	text-align: center;
+}
